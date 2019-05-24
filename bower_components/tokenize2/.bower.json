@@ -1,0 +1,14 @@
+{
+  "name": "tokenize2",
+  "homepage": "https://github.com/zellerda/Tokenize2",
+  "_release": "316eb29153",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "316eb2915390f85caed1cd82145659ec0df0949d"
+  },
+  "_source": "https://github.com/zellerda/Tokenize2.git",
+  "_target": "*",
+  "_originalSource": "tokenize2",
+  "_direct": true
+}
